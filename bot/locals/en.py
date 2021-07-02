@@ -3,7 +3,7 @@ from bot.locals import Local
 
 LOCAL = Local({
     'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code>',
-    'WELCOME_MESSAGE' : "Hi!\nI'm <b>Botkaca</b>!\nPowered by pyrogram.\nFork: <a href='https://github.com/Finitebottutu/botkaca'>github.com/Finitebottutu/botkaca</a>",
+    'WELCOME_MESSAGE' : "Hi!\nI'm <b>@MSPmoviesOffl BOT/b>",
     'PASS_REQUIRED' : '\n\nUse <code>/{cmd_pass} </code>to enter the password.',
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'Name: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
@@ -34,14 +34,14 @@ LOCAL = Local({
     'COMMAND_START' : 'start bot',
     'COMMAND_PASSWORD' : 'enter password that required',
     'COMMAND_HELP' : 'this message',
-    'COMMAND_LEECH' : 'leech link or magnet',
-    'COMMAND_CANCEL_LEECH' : 'cancel leeching',
-    'COMMAND_LEECH_LIST' : 'list on going leech',
-    'COMMAND_SET_THUMBNAIL' : 'set custom video thumbail',
-    'COMMAND_RESET_THUMBNAIL' : 'reset custom video thumbnail',
-    'COMMAND_UPLOAD_AS_DOC' : 'toggle upload anything as document',
-    'COMMAND_UPLOAD_AS_ZIP' : 'toggle upload anything as bundled zipfile',
-    'COMMAND_SET_TRACKER' : 'set default tracker, sparated by newline',
+    'COMMAND_LEECH@msptorrentleechbot2' : 'leech link or magnet',
+    'COMMAND_CANCEL_LEECH@msptorrentleechbot2' : 'cancel leeching',
+    'COMMAND_LEECH_LIST@msptorrentleechbot2' : 'list on going leech',
+    'COMMAND_SET_THUMBNAIL@msptorrentleechbot2' : 'set custom video thumbail',
+    'COMMAND_RESET_THUMBNAIL@msptorrentleechbot2' : 'reset custom video thumbnail',
+    'COMMAND_UPLOAD_AS_DOC@msptorrentleechbot2' : 'toggle upload anything as document',
+    'COMMAND_UPLOAD_AS_ZIP@msptorrentleechbot2' : 'toggle upload anything as bundled zipfile',
+    'COMMAND_SET_TRACKER@msptorrentleechbot2' : 'set default tracker, sparated by newline',
     'BLOCK_EMPTY' : "▱",
     "BLOCK_FILLED" : "▰"
 })
