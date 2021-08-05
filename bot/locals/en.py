@@ -3,7 +3,7 @@ from bot.locals import Local
 
 LOCAL = Local({
     'WRONG_ROOM' : 'I a\'m not suppose to be here.\nID : <code>{CHAT_ID}</code>',
-    'WELCOME_MESSAGE' : "Hi!\nI'm <b>Botkaca</b>!\nPowered by pyrogram.\nFork: <a href='https://github.com/Finitebottutu/botkaca'>github.com/Finitebottutu/botkaca</a>",
+    'WELCOME_MESSAGE' : 'WELCOME_MESSAGE' : "Hi!\nI'm <b>khald </b>!\nCan join to my group .\nFork: <a href='https://t.me/joinchat/7yWzBltILs9iNmRl>Premium Graphics Download</a>",
     'PASS_REQUIRED' : '\n\nUse <code>/{cmd_pass} </code>to enter the password.',
     'LEECH_LIST_MESSAGE_HEADER' : '<b>Leech Status</b>',
     'LEECH_LIST_FORMAT' : 'Name: <code>{name}</code>\nStatus: {status}\nID: <code>{gid}</code>\n\n',
